@@ -1,5 +1,12 @@
 * Gaussian distr. from sum distribution of dice throws
 
+*** Starting the visualization
+After navigating into the repository, run the following from the command line:
+#+begin_src shell
+make setup
+make gaussian
+#+end_src shell
+
 [[./demo-image.png]]
 
 # https://www.cantorsparadise.com/what-to-expect-when-throwing-dice-and-adding-them-up-5231f3831d7
