@@ -7,6 +7,7 @@ make setup
 make gaussian
 #+end_src shell
 
+*** Result
 [[./demo-image.png]]
 
 # https://www.cantorsparadise.com/what-to-expect-when-throwing-dice-and-adding-them-up-5231f3831d7
