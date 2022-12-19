@@ -1,3 +1,5 @@
 * Gaussian distr. from sum distribution of dice throws
 
+[[./demo-image.png]]
+
 # https://www.cantorsparadise.com/what-to-expect-when-throwing-dice-and-adding-them-up-5231f3831d7
